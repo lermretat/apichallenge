@@ -39,6 +39,7 @@ def read_data_files(data_path: str) -> dict:
 
 if __name__ == "__main__":
 
+    # TODO: send to .env file
     DATA_PATH = "I:\\Raposera\\pruebas\\globant\\data_challenge_files"
     API_URL = "http://127.0.0.1:8000"
 
